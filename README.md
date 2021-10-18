@@ -8,3 +8,4 @@ b站视频的下载地址是通过re模块在网页源代码里找到的
 
 详情解释可以观看视频：https://www.bilibili.com/video/BV1VL4y1v7nH?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click  ，作者主要也是从此视频中学习。
 
+cookie最好自己设置
